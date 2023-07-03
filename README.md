@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Currently working on Inven, go check us out at [inven.ai](https://www.inven.ai/) 😎
+
+Reach out on [LinkedIn](https://www.linkedin.com/in/ekku-jokinen) 📫
 <!--
 **EkkuJ/EkkuJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
